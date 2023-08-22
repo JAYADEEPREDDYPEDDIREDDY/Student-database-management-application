@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "691260257997",
+    "project_id": "dcme-app",
+    "storage_bucket": "dcme-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691260257997:android:9925451cf36b6f57819b84",
+        "android_client_info": {
+          "package_name": "com.example.dcmeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691260257997-4al03tp111hae8u9q4krg8pge0u9tfdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVb5EAJ8v4K2WXnOPQ9F7XeHIcUAF5pTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691260257997-4al03tp111hae8u9q4krg8pge0u9tfdn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691260257997-cge8c614vfohamdnb75t1p63ehi0k6hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dcmeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
